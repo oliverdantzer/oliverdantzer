@@ -1,5 +1,5 @@
 ## Oliver Dantzer
-My LinkedIn:
+My LinkedIn:&nbsp
 <a href="https://www.linkedin.com/in/oliverdantzer/">
   <img alt="Oliver's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a><br><br>
