@@ -3,7 +3,7 @@ My LinkedIn:&nbsp;
 <a href="https://www.linkedin.com/in/oliverdantzer/">
   <img alt="Oliver's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a><br><br>
-My website: https://oliverdantzer.github.io/<br><br>
+My website: https://oliverdantzer.me/<br><br>
 Hi, I'm Oliver Dantzer, a passionate computer science student. [Check out my most recent project!](https://github.com/oliverdantzer/music-generation)
 
 ### My skills:
